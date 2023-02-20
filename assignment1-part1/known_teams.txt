@@ -1,0 +1,63 @@
+0 - Team61
+26
+Ambitious Boys 4.0
+drop table students;
+EDM
+group45
+IR55
+Mario_Jing_Bram
+ME IR L
+PAPRIKAxNIKONExMACRON
+TDM
+Team 10
+Team 11
+Team 12
+Team 13
+Team 14
+Team 15
+Team 16
+Team 17
+Team 18
+Team 19
+Team 2
+Team 20
+Team 21
+Team 22
+Team 23
+Team 24
+Team 25
+team 27
+Team 29
+Team 30
+team 31
+Team 32
+Team 34
+Team 36
+Team 37
+Team 4
+Team 40
+Team 42
+team 43
+Team 44
+Team 46
+Team 47
+Team 49
+Team 5
+Team 50
+Team 51
+Team 52
+Team 53
+Team 54
+Team 60
+team 7
+Team 8
+Team Damsko
+Team-1
+Team-39
+Team-48
+team-9
+team35
+team56
+waterdogs
+Wawawiwa
+XDu_Observer
