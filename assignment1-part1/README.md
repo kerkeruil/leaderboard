@@ -2,7 +2,7 @@
 This directory contains one leaderboard table for each method run in the assignment.
 Click one of the markdown files listed above to see the corresponding leaderboard. For example, [BM25_1.md](BM25_1.md)
 
-You can check the file [last_updated.txt](last_updated.txt) to see when the leaderboard was last updated. 
+You can check the file [last_updated.txt](last_updated.txt) to see when the leaderboard was last updated. This should happen about once per hour.
 
 ## Troubleshooting
 If you cannot find your team name in the tables, check the `known_teams.txt` file. Your team is likely missing from this file. Please create a private issue on Piazza letting us know that your team needs to be added.
